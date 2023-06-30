@@ -1,4 +1,4 @@
-# JetpackComposeChatApplication
+# ChatVerse
 | ![alt](https://i.imgur.com/bk7fBet.png) | ![alt](https://i.imgur.com/tZgJHOb.png) |
 | ------------- | ------------- |
 | ![alt](https://i.imgur.com/T1BpiPL.png) | ![alt](https://i.imgur.com/0LlaL6Z.png) |
